@@ -35,6 +35,7 @@ Ferramentas e Tecnologias
 Atuar como Quality Assurance (QA), garantindo a qualidade do software por meio da prevenção de defeitos, execução de testes eficientes e colaboração com o time para a melhoria contínua dos processos e entregas.
 
 📬 Contato
+
 LinkedIn: www.linkedin.com/in/mayarawyrla
 
 GitHub: https://github.com/MayaraNascimentoS
