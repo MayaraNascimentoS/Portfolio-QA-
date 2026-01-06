@@ -9,6 +9,7 @@ Testes Manuais
 - Planejamento de testes
 - Casos de teste (positivos, negativos e edge cases)
 - Relatórios de bugs bem documentados
+  
 📂 Pasta: testes-manuais
 
 Testes de API
@@ -16,11 +17,13 @@ Testes de API
 - Validações de status code, contrato e dados
 - Collections do Postman
 - Testes data-driven
+
 📂 Pasta: testes-api
 
 Automação de Testes
 - Automação de testes Web com Cypress
 - Boas práticas de escrita e organização de testes
+
 📂 Pasta: automacao
 
 Ferramentas e Tecnologias
