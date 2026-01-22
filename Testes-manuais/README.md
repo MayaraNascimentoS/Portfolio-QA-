@@ -34,7 +34,7 @@ Os casos são escritos de forma clara e objetiva, facilitando a execução e ras
 
 ---
 
-### 🐞 Relatórios de Bugs
+### Relatórios de Bugs
 Documentação de defeitos encontrados durante a execução dos testes, contendo:
 - Descrição do problema
 - Passos para reprodução
