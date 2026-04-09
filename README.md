@@ -21,7 +21,7 @@ O objetivo deste portfólio é demonstrar minha **forma de pensar como QA**: org
 ## 📂 Estrutura do Portfólio
 
 ### 🧪 Testes Manuais
-📁 [`/testes-manuais`](./testes-manuais)
+📁 [`/testes-manuais`](./Testes-manuais)
 
 Documentação de testes funcionais aplicando boas práticas de QA:
 
