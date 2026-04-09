@@ -1,55 +1,60 @@
-# Testes Manuais
+# 🧪 Testes Manuais
 
-Esta pasta contém a documentação relacionada aos **testes manuais** realizados nos projetos de estudo deste portfólio.
+Esta pasta reúne a documentação dos testes manuais realizados nos projetos de estudo deste portfólio.
 
 O objetivo é demonstrar minha capacidade de **planejar, executar e documentar testes**, garantindo a qualidade do software por meio da identificação preventiva de falhas e validação dos requisitos.
 
 ---
 
-## Estrutura da Pasta
+## 📂 Estrutura da Pasta
+
+```
+testes-manuais/
+├── plano-de-testes/
+├── casos-de-teste/
+└── relatorios-de-bugs/
+```
 
 ---
 
-### Plano de Testes
-Contém documentos de planejamento que definem:
-- Escopo dos testes
-- Estratégia de teste
-- Ambiente
-- Critérios de entrada e saída
-- Riscos e premissas
+### 📋 Plano de Testes
+📁 [`/plano-de-testes`](./plano-de-testes)
 
-📁 Pasta: `plano-de-testes`
+Documentos de planejamento que definem a estratégia de teste antes da execução:
 
----
-
-### Casos de Teste
-Inclui casos de teste manuais elaborados com:
-- Cenários positivos
-- Cenários negativos
-- Edge cases
-
-Os casos são escritos de forma clara e objetiva, facilitando a execução e rastreabilidade.
-
-📁 Pasta: `casos-de-teste`
+- 🔍 Escopo dos testes
+- 🗺️ Estratégia de teste
+- 🖥️ Ambiente de teste
+- ✅ Critérios de entrada e saída
+- ⚠️ Riscos e premissas
 
 ---
 
-### Relatórios de Bugs
-Documentação de defeitos encontrados durante a execução dos testes, contendo:
-- Descrição do problema
-- Passos para reprodução
-- Resultado esperado x resultado obtido
-- Severidade e prioridade
+### 📝 Casos de Teste
+📁 [`/casos-de-teste`](./casos-de-teste)
 
-📁 Pasta: `relatorios-de-bugs`
+Casos de teste manuais elaborados com clareza e rastreabilidade:
 
----
-
-## Objetivo dos Testes Manuais
-
-Garantir que as funcionalidades atendam aos requisitos definidos, oferecendo uma experiência confiável ao usuário e contribuindo para a **melhoria contínua da qualidade do software**.
+- ✅ Cenários positivos
+- ❌ Cenários negativos
+- 🔲 Edge cases
 
 ---
 
-*Os conteúdos desta pasta são atualizados conforme a evolução dos estudos e projetos práticos em QA.*
+### 🐛 Relatórios de Bugs
+📁 [`/relatorios-de-bugs`](./relatorios-de-bugs)
 
+Documentação de defeitos encontrados durante a execução dos testes:
+
+- 📌 Descrição do problema
+- 🔁 Passos para reprodução
+- 🔀 Resultado esperado vs. resultado obtido
+- 🚨 Severidade e prioridade
+
+---
+
+## 🎯 Objetivo
+
+Garantir que as funcionalidades atendam aos requisitos definidos, oferecendo uma experiência confiável ao usuário e contribuindo para a **melhoria contínua** da qualidade do software.
+
+> 📌 Os conteúdos desta pasta são atualizados conforme a evolução dos estudos e projetos práticos em QA.
