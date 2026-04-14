@@ -31,6 +31,16 @@ Documentação de testes funcionais aplicando boas práticas de QA:
 
 ---
 
+### ⚙️ Automação de Testes
+📁 [`/automacao`](./automacao)
+
+Automação de testes E2E com Cypress + JavaScript:
+
+- ✅ Automação de fluxos web com Cypress
+- ✅ Boas práticas de escrita e organização de testes
+
+---
+
 ### 🔌 Testes de API
 📁 [`/testes-api`](./testes-api)
 
@@ -40,16 +50,6 @@ Testes de serviços REST utilizando Postman:
 - ✅ Validações de status code, contrato e dados
 - ✅ Collections do Postman exportadas
 - ✅ Testes data-driven
-
----
-
-### ⚙️ Automação de Testes
-📁 [`/automacao`](./automacao)
-
-Automação de testes E2E com Cypress + JavaScript:
-
-- ✅ Automação de fluxos web com Cypress
-- ✅ Boas práticas de escrita e organização de testes
 
 ---
 
